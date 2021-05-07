@@ -1,0 +1,15 @@
+.bigblue {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  position: relative;
+  right: 0;
+  color: blue;
+}
+.total{
+  display: flex;
+  flex-direction: row;
+  padding: 10px;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
